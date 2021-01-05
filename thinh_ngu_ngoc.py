@@ -1,1 +1,1 @@
-print("thinh_ngao_da")
+print("thinh ngao da")
