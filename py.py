@@ -1,1 +1,1 @@
-print('ngu')
+print('ngu ngu')
