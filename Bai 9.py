@@ -9,4 +9,3 @@ while shutdown:
     else:
         print("chờ 1 lát rồi được hỏi lại")
         time.sleep(30)
-© 2021 GitHub, Inc.
