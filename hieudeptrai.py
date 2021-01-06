@@ -7,7 +7,9 @@ def matrix(n):
 
     detA = np.linalg.det(A)
     rankA = np.linalg.matrix_rank(A)
-
+    print('detA', x)
+    print('rankA', y)
+    print('')
     return detA, rankA, A**2, A**3
 
 x, y, z, t = matrix(3)
